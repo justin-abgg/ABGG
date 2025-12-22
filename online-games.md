@@ -14,6 +14,6 @@ Once you've signed up, [join the ABGG group](https://boardgamearena.com/group?id
 
 You will also need a headset for voice chat and Discord installed.
 Discord is a free program for online text and voice chat. [You can download Discord here](https://discord.com/).
-Once installed, [follow this link to join the ABGG Discord server](https://discord.gg/KYXmAHGrBk?event=1341271196238614640).
+Once installed, [follow this link to join the ABGG Discord server](https://discord.gg/KYXmAHGrBk).
 
 Check the event tab on Discord for the date of the next meeting!
