@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;🕔 5pm - 🕙 10pm  
 &nbsp;&nbsp;&nbsp;🗺️ Parks Library, 46 Trafford Street, Angle Park  
 
-#### 🎯 Central Meetup @ NACC (Donation Requested)
+#### 🎯 Central Meetup @ North Adelaide Community Centre (Donation Requested)
 &nbsp;&nbsp;&nbsp;📅 Weekly Sessions on Tuesday  
 &nbsp;&nbsp;&nbsp;🕠 5:30pm - 🕥 10:30pm  
 &nbsp;&nbsp;&nbsp;🗺️ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide  
