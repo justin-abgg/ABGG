@@ -49,8 +49,6 @@ To see some photos from our previous events you can [check out our photo gallery
 
 # Information resources
 
-## General
-
 - Find out what to expect if you've never attended before, with the [first-timer guide](guides/firsttime.md)
 
 - Essential reading for all -- [the previously unwritten courtesy guide](guides/courtesy.md)
@@ -59,8 +57,6 @@ To see some photos from our previous events you can [check out our photo gallery
 
 # Feedback
 
-These pages are living documents, created by ABGG volunteers
+These pages are maintained by the ABGG committee, who are volunteers responsible for organising and running events
 
-- Get in touch any way you know how (Facebook group is the most active) and let us know what you'd like to see here.
-
-- The pages are hosted via GitHub pages -- if you have the technical know-how then feel free to create a new page, or update one, and submit a pull request with your changes to [the repo](https://github.com/Dislexsick/ABGG).
+[You can see details of the current committee members here. Please get in touch of you have any questions or would like to provide feedback.](committee.md)
