@@ -15,7 +15,7 @@
 #### 🎯 Central Meetup @ North Adelaide Community Centre (Donation Requested)
 &nbsp;&nbsp;&nbsp;📅 Weekly Sessions on Tuesday  
 &nbsp;&nbsp;&nbsp;🕠 5:30pm - 🕥 10:30pm  
-&nbsp;&nbsp;&nbsp;🗺️ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide  
+&nbsp;&nbsp;&nbsp;🗺️ North Adelaide Community Centre, 176 Tynte Street, North Adelaide  
 
 #### ↗️ North-East Meetup @ Payneham (Donation Requested)
 &nbsp;&nbsp;&nbsp;📅 Weekly Sessions on Saturday  
