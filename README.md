@@ -31,7 +31,9 @@ For those seeking a local group to play with these are a great place to do so.
 
 ## Events 
 
-ABGG is responsible for hosting events, at various locations and times.
+ABGG is responsible for hosting events, at various locations and times. 
+
+We hold regular weekly events around Adelaide, as well as an online night. We often hold special events on public holidays.
 
 We aspire to keep ABGG events free where possible, or low cost for attendees, and our events are open for all to join us.
 
