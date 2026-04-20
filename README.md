@@ -1,5 +1,12 @@
 ![ABGG Logo](ABGG_Logo.png)
 
+#
+<p align="center"> <a href="https://facebook.com/groups/abgg2013">Facebook</a> | <a href="https://discord.com/invite/cexhQBX">Discord</a> </p>
+
+<a href="https://facebook.com/groups/abgg2013">Facebook</a>
+
+[Facebook](https://facebook.com/groups/abgg2013)
+
 # Quick Connect
 Welcome, these are some pages to help the ABGG community find, and attend our events.  
 We mostly organise our events via Facebook, and cross-post event info to Discord, so we suggest connecting with us on one of those platforms!
