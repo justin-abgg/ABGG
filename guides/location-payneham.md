@@ -20,15 +20,6 @@ Entering car park.
 
 ![Carpark](../HowToFindUs-Payneham/HowToFindUs_files/image004.jpg)
  
- 
-This door for entry.
+Enter though this door
 
-![Entrance](../HowToFindUs-Payneham/HowToFindUs_files/image006.jpg)
-
-**Not** this door!
-
-![Wrong door!](../HowToFindUs-Payneham/HowToFindUs_files/image005.jpg)
-
-View through entry door of Room One entry.
-
-![Entrance](../HowToFindUs-Payneham/HowToFindUs_files//image007.jpg)
+![Entry door](../HowToFindUs-Payneham/HowToFindUs_files/image005.jpg)
