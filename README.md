@@ -61,4 +61,6 @@ To see some photos from our previous events you can [check out our photo gallery
 
 These pages are maintained by the ABGG committee, who are volunteers responsible for organising and running events
 
-[You can see details of the current committee members here. Please get in touch of you have any questions or would like to provide feedback.](committee.md)
+[You can see details of the current committee members here.](committee.md)
+
+Please get in touch of you have any questions or would like to provide feedback.
