@@ -1,11 +1,9 @@
 ![ABGG Logo](ABGG_Logo.png)
 
 #
-<p align="center"> <a href="https://facebook.com/groups/abgg2013">Facebook</a> | <a href="https://discord.com/invite/cexhQBX">Discord</a> </p>
+<p align="center"> <a href="https://facebook.com/groups/abgg2013">Facebook</a> | <a href="https://discord.com/invite/cexhQBX">Discord</a> | <a href="https://boardgamearena.com/group?id=3460147">Boardgame Arena</a> </p>
 
-<a href="https://facebook.com/groups/abgg2013">Facebook</a>
 
-[Facebook](https://facebook.com/groups/abgg2013)
 
 # Quick Connect
 Welcome, these are some pages to help the ABGG community find, and attend our events.  
