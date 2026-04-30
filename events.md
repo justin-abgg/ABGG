@@ -5,7 +5,7 @@
 
 ### This list contains all of the regular Adelaide Boardgame Group events around Adelaide
 
-### We often hold special events during the year and for public holidays
+### We also hold special events during the year and for public holidays
 
 ### **Click here for our [live list of events on Google calendar](https://calendar.google.com/calendar/embed?src=15cd857338d6a885773f1470e2ae5024da12186c9fe732ec0630444955bff6ea%40group.calendar.google.com&ctz=Australia%2FAdelaide) for the most up-to-date information**
 
