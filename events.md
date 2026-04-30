@@ -11,17 +11,17 @@
 
 
 #### ↖️ North-West Meetup @ Parks (Free)  
-&nbsp;&nbsp;&nbsp;📅 Weekly Sessions on Monday  
+&nbsp;&nbsp;&nbsp;📅 Every Monday  
 &nbsp;&nbsp;&nbsp;🕔 5pm - 🕙 10pm  
 &nbsp;&nbsp;&nbsp;🗺️ Parks Library, 46 Trafford Street, Angle Park  
 
 #### 🎯 Central Meetup @ North Adelaide Community Centre (Donation Requested)
-&nbsp;&nbsp;&nbsp;📅 Weekly Sessions on Tuesday  
+&nbsp;&nbsp;&nbsp;📅 Every Tuesday  
 &nbsp;&nbsp;&nbsp;🕠 5:30pm - 🕥 10:30pm  
 &nbsp;&nbsp;&nbsp;🗺️ North Adelaide Community Centre, 176 Tynte Street, North Adelaide  
 
 #### ↗️ North-East Meetup @ Payneham (Donation Requested)
-&nbsp;&nbsp;&nbsp;📅 Weekly Sessions on Saturday  
+&nbsp;&nbsp;&nbsp;📅 Every Saturday  
 &nbsp;&nbsp;&nbsp;🕐 1pm - 🕙 10pm  
 &nbsp;&nbsp;&nbsp;🗺️ Payneham Community Centre, 374 Payneham Road, Payneham  
 
@@ -31,6 +31,6 @@
 &nbsp;&nbsp;&nbsp;🗺️ Cooinda Neighbourhood Centre, 245 Sturt Rd, Sturt
 
 #### 💻 Online Game Night   
-&nbsp;&nbsp;&nbsp;📅 Weekly Sundays  
+&nbsp;&nbsp;&nbsp;📅 Every Sunday  
 &nbsp;&nbsp;&nbsp;🕚 7pm - 🕕 10pm  
 &nbsp;&nbsp;&nbsp;🗺️ Meet on Discord for games using Boardgame Arena. See our [online game night guide](online-games.md) for more details
