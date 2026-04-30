@@ -1,5 +1,9 @@
 ![ABGG Logo](/ABGG_Logo.png)
 
+#
+<p align="center"> <a href="README.md">Home</a> | <a href="events.md">Our events</a> | <a href="https://facebook.com/groups/abgg2013">Facebook</a> | <a href="https://discord.com/invite/cexhQBX">Discord</a> | <a href="https://boardgamearena.com/group?id=3460147">Boardgame Arena</a> | <a href="committee.md">Who we are</a> </p>
+
+
 # Guidelines for being a courteous gamer
 
 ABGG’s events function best when everyone is being courteous to each other – we’re pleased to report that an overwhelming majority of people don’t need to be told or reminded of these things, but to make sure we’re all on the same page these are the behaviours we should aspire to be enacting.
