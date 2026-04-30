@@ -6,8 +6,6 @@
 
 # About Us
 
-## Our Group
-
 Adelaide Board Game Group (ABGG) is a community board gaming group run by a small group of volunteers.
 
 Our goal is to promote board gaming as a hobby in South Australia, we want to help bring the golden age of board games to more people.
@@ -16,7 +14,7 @@ We host regular board game events, all open to the general public to join us, in
 
 At ABGG we to love and play all sorts of board games – at our events you can expect to see latest releases, tons of modern board games, as well as older favourites.  We welcome all gamers regardless of age, or experience.
 
-## Discussion
+# Discussion
 
 Our Facebook and Discord communities are also a great place to meet, connect with, discuss, and arrange sessions of board games with other local gamers.
 
@@ -29,7 +27,7 @@ For those seeking a local group to play with these are a great place to do so.
 * Those with a taste for online board gaming can find us on [Board Game Arena](https://boardgamearena.com/group?id=3460147). We also host an [online game night](online-games.md) using Discord.
 
 
-## Events 
+# Events 
 
 ABGG is responsible for hosting events, at various locations and times. 
 
@@ -57,7 +55,7 @@ To see some photos from our previous events you can [check out our photo gallery
 
 - Finding us at Payneham can sometimes be a bit tricky, but no more with [our guide to getting to the Payneham events](guides/location-payneham.md)
 
-# Feedback
+# Who we are
 
 These pages are maintained by the ABGG committee, who are volunteers responsible for organising and running events
 
