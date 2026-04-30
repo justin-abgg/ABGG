@@ -12,7 +12,7 @@ Our goal is to promote board gaming as a hobby in South Australia, we want to he
 
 We host regular board game events, all open to the general public to join us, in a variety of venues around the state, at low, or no cost to attendees; and have a Facebook and Discord community to discuss the hobby.
 
-At ABGG we to love and play all sorts of board games – at our events you can expect to see latest releases, tons of modern board games, as well as older favourites.  We welcome all gamers regardless of age, or experience.
+At ABGG we to love and play all sorts of board games – at our events you can expect to see latest releases, tons of modern board games, as well as older favourites.  We welcome all gamers regardless of experience.
 
 # Discussion
 
