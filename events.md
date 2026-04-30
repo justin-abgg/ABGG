@@ -5,6 +5,7 @@
 
 ### This list contains all of the regular Adelaide Boardgame Group events around Adelaide
 
+### We often hold special events during the year and for public holidays
 
 ### **Click here for our [live list of events on Google calendar](https://calendar.google.com/calendar/embed?src=15cd857338d6a885773f1470e2ae5024da12186c9fe732ec0630444955bff6ea%40group.calendar.google.com&ctz=Australia%2FAdelaide) for the most up-to-date information**
 
@@ -30,6 +31,6 @@
 &nbsp;&nbsp;&nbsp;🗺️ Cooinda Neighbourhood Centre, 245 Sturt Rd, Sturt
 
 #### 💻 Online Game Night   
-&nbsp;&nbsp;&nbsp;📅 Fortnightly Sundays  
+&nbsp;&nbsp;&nbsp;📅 Weekly Sundays  
 &nbsp;&nbsp;&nbsp;🕚 7pm - 🕕 10pm  
 &nbsp;&nbsp;&nbsp;🗺️ Meet on Discord for games using Boardgame Arena. See our [online game night guide](online-games.md) for more details
