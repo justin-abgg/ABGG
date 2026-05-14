@@ -3,19 +3,22 @@
 #
 <p align="center"> <a href="README.md">Home</a> | <a href="events.md">Our events</a> | <a href="https://facebook.com/groups/abgg2013">Facebook</a> | <a href="https://discord.com/invite/cexhQBX">Discord</a> | <a href="https://boardgamearena.com/group?id=3460147">Boardgame Arena</a> | <a href="committee.md">Who we are</a> </p>
 
+## These are the current committee members making everything happen behind the scenes 
 
-![Photo1](/images/photo1.jpg)
+Need to contact us? [Click here to send us an email](mailto:abgg.services@gmail.com)
 
-![Photo2](/images/photo2.jpg)
 
-![Photo3](/images/photo3.jpg)
 
-![Photo4](/images/photo4.jpg)
+![Photo1](/images/Jill.jpg)
 
-![Photo5](/images/photo5.jpg)
+![Photo1](/images/Scott.jpg)
 
-![Photo6](/images/photo6.jpg)
+![Photo1](/images/Ian.jpg)
 
-![Photo7](/images/photo7.jpg)
+![Photo1](/images/Justin.jpg)
 
-![Photo8](/images/photo8.jpg)
+![Photo1](/images/Kat.jpg)
+
+![Photo1](/images/Tallulah.jpg)
+
+

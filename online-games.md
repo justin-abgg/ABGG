@@ -1,6 +1,9 @@
 ![ABGG Logo](ABGG_Logo.png)
 
-# ABGG Online Game Night - Weekly Sundays From 7PM!
+#
+<p align="center"> <a href="README.md">Home</a> | <a href="events.md">Our events</a> | <a href="https://facebook.com/groups/abgg2013">Facebook</a> | <a href="https://discord.com/invite/cexhQBX">Discord</a> | <a href="https://boardgamearena.com/group?id=3460147">Boardgame Arena</a> | <a href="committee.md">Who we are</a> </p>
+
+# ABGG Online Game Night - Weekly Sundays From 7PM
 
 Online gaming has expanded in the last few years with a huge number of games available.
 ABGG's online gaming sessions are a great way to connect with others and discover new games that you haven't had the chance to try before!

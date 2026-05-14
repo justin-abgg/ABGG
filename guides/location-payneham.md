@@ -1,3 +1,8 @@
+![ABGG Logo](/ABGG_Logo.png)
+
+#
+<p align="center"> <a href="../README.md">Home</a> | <a href="../events.md">Our events</a> | <a href="https://facebook.com/groups/abgg2013">Facebook</a> | <a href="https://discord.com/invite/cexhQBX">Discord</a> | <a href="https://boardgamearena.com/group?id=3460147">Boardgame Arena</a> | <a href="../committee.md">Who we are</a> </p>
+
 
 The site is the Payneham Community Centre 374 Payneham Rd, Payneham.
 It is on the corner of Payneham Rd and Arthur St at Payneham
@@ -20,15 +25,6 @@ Entering car park.
 
 ![Carpark](../HowToFindUs-Payneham/HowToFindUs_files/image004.jpg)
  
- 
-This door for entry.
+Enter though this door
 
-![Entrance](../HowToFindUs-Payneham/HowToFindUs_files/image006.jpg)
-
-**Not** this door!
-
-![Wrong door!](../HowToFindUs-Payneham/HowToFindUs_files/image005.jpg)
-
-View through entry door of Room One entry.
-
-![Entrance](../HowToFindUs-Payneham/HowToFindUs_files//image007.jpg)
+![Entry door](../HowToFindUs-Payneham/HowToFindUs_files/image005.jpg)
