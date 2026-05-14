@@ -35,29 +35,29 @@ We hold regular weekly events around Adelaide, as well as an online night. We of
 
 We aspire to keep ABGG events free where possible, or low cost for attendees, and our events are open for all to join us.
 
-Most games are brought by attendees to create a pool of games to choose from and play. 
+Most games are brought by attendees to create a pool of games to choose from and play.
 
 Because of this the games brought along to ABGG vary significantly - it really depends on who's bringing them!
 
-People are also encouraged to post in the community about games they'd like to play - we love to see people arrange getting a game they're passionate about to the table
+People are also encouraged to post in the community about games they'd like to play - we love to see people arrange getting a game they're passionate about to the table.
 
-[Visit our events page for the latest details of all our events](events.md)
+[Visit our events page for the latest details of all our events.](events.md)
 
 # Photo gallery
 
-To see some photos from our previous events you can [check out our photo gallery here](gallery.md)
+To see some photos from our previous events you can [check out our photo gallery here.](gallery.md)
 
 # Information resources
 
-- Find out what to expect if you've never attended before, with the [first-timer guide](guides/firsttime.md)
+- Find out what to expect if you've never attended before, with the [first-timer guide.](guides/firsttime.md)
 
-- Essential reading for all -- [the previously unwritten courtesy guide](guides/courtesy.md)
+- Essential reading for all -- [the previously unwritten courtesy guide.](guides/courtesy.md)
 
-- Finding us at Payneham can sometimes be a bit tricky, but no more with [our guide to getting to the Payneham events](guides/location-payneham.md)
+- Finding us at Payneham can sometimes be a bit tricky, but no more with [our guide to getting to the Payneham events.](guides/location-payneham.md)
 
 # Who we are
 
-These pages are maintained by the ABGG committee, who are volunteers responsible for organising and running events
+These pages are maintained by the ABGG committee, who are volunteers responsible for organising and running events.
 
 [You can see details of the current committee members here.](committee.md)
 
